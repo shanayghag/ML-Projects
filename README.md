@@ -5,4 +5,4 @@
               >>> Data-preprocessing <br>
               >>> Model building <br>
               >>> Evaluation <br>
-              <i>Accuracy</i>: <b>88.37%<\b> <br>
+              <i>Accuracy</i>: <b>88.37% <br>
