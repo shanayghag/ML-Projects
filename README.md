@@ -13,7 +13,7 @@ The <b>Audit_Course.ipynb</b> consists of:
  
 <b><h3>Census Income Dataset</h3></b>
 <b>Description</b> : <i>Binary Classification on Census Income data.</i></br>
-The <b>Census Income Data.ipynb</b> consists of:
+The <i><b>Census Income Data.ipynb</b></i> consists of:
  <ul>
  <li>EDA</li>
  <li>Data-preprocessing</li>
