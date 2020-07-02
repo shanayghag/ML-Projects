@@ -1,7 +1,7 @@
 # ML-Projects
 
 <b><h3>Recruitment Dataset</h3></b>
-<b>Description</b> : <i>Binary Classification on recruitment data.</i>
+<b>Description</b> : <i>Binary Classification on recruitment data.</i></br>
 The <b>Audit_Course.ipynb</b> consists of:
  <ul>
  <li>EDA</li>
@@ -12,7 +12,7 @@ The <b>Audit_Course.ipynb</b> consists of:
  <b>Accuracy<b>: 88.37%
  
 <b><h3>Census Income Dataset</h3></b></br>
-<b>Description</b> : <i>Binary Classification on Census Income data.</i>
+<b>Description</b> : <i>Binary Classification on Census Income data.</i></br>
 The <b>Census Income Data.ipynb</b> consists of:
  <ul>
  <li>EDA</li>
@@ -20,4 +20,4 @@ The <b>Census Income Data.ipynb</b> consists of:
  <li>Model building</li>
  <li>Evaluation</li>
  </ul>
- <b>Accuracy<b>: 85%
+ <b>Accuracy</b>: 85%
