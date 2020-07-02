@@ -9,7 +9,7 @@ The <b>Audit_Course.ipynb</b> consists of:
  <li>Model building</li>
  <li>Evaluation</li>
  </ul>
- <b>Accuracy<b>: 88.37%
+ <b>Accuracy</b>: 88.37%
  
 <b><h3>Census Income Dataset</h3></b>
 <b>Description</b> : <i>Binary Classification on Census Income data.</i></br>
